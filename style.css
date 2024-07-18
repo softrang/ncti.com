@@ -446,6 +446,15 @@ list-style: 20px;
   height: 100%;
   
 }
+.osr h1{
+  position: absolute;
+}
+
+.osr h2{
+  position: absolute;
+}
+
+
 
 .osr ul{
   text-align: left;
